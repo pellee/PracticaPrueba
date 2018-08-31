@@ -1,0 +1,7 @@
+D:\Proyectos\ProyectosC#\GrispiPractice\GrispiPractice\bin\Debug\GrispiPractice.exe.config
+D:\Proyectos\ProyectosC#\GrispiPractice\GrispiPractice\bin\Debug\GrispiPractice.exe
+D:\Proyectos\ProyectosC#\GrispiPractice\GrispiPractice\bin\Debug\GrispiPractice.pdb
+D:\Proyectos\ProyectosC#\GrispiPractice\GrispiPractice\obj\Debug\Supermercado.csprojAssemblyReference.cache
+D:\Proyectos\ProyectosC#\GrispiPractice\GrispiPractice\obj\Debug\Supermercado.csproj.CoreCompileInputs.cache
+D:\Proyectos\ProyectosC#\GrispiPractice\GrispiPractice\obj\Debug\GrispiPractice.exe
+D:\Proyectos\ProyectosC#\GrispiPractice\GrispiPractice\obj\Debug\GrispiPractice.pdb

@@ -1,0 +1,7 @@
+D:\Proyectos\ProyectosC#\GrispiPractice\Carrera\bin\Debug\Carrera.exe.config
+D:\Proyectos\ProyectosC#\GrispiPractice\Carrera\bin\Debug\Carrera.exe
+D:\Proyectos\ProyectosC#\GrispiPractice\Carrera\bin\Debug\Carrera.pdb
+D:\Proyectos\ProyectosC#\GrispiPractice\Carrera\obj\Debug\Carrera.csprojAssemblyReference.cache
+D:\Proyectos\ProyectosC#\GrispiPractice\Carrera\obj\Debug\Carrera.csproj.CoreCompileInputs.cache
+D:\Proyectos\ProyectosC#\GrispiPractice\Carrera\obj\Debug\Carrera.exe
+D:\Proyectos\ProyectosC#\GrispiPractice\Carrera\obj\Debug\Carrera.pdb
