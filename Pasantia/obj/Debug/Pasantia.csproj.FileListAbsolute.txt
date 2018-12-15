@@ -1,7 +1,7 @@
 D:\Proyectos\ProyectosC#\GrispiPractice\Pasantia\bin\Debug\Pasantia.exe.config
 D:\Proyectos\ProyectosC#\GrispiPractice\Pasantia\bin\Debug\Pasantia.exe
 D:\Proyectos\ProyectosC#\GrispiPractice\Pasantia\bin\Debug\Pasantia.pdb
-D:\Proyectos\ProyectosC#\GrispiPractice\Pasantia\obj\Debug\Pasantia.csprojAssemblyReference.cache
 D:\Proyectos\ProyectosC#\GrispiPractice\Pasantia\obj\Debug\Pasantia.csproj.CoreCompileInputs.cache
 D:\Proyectos\ProyectosC#\GrispiPractice\Pasantia\obj\Debug\Pasantia.exe
 D:\Proyectos\ProyectosC#\GrispiPractice\Pasantia\obj\Debug\Pasantia.pdb
+D:\Proyectos\ProyectosC#\GrispiPractice\Pasantia\obj\Debug\Pasantia.csprojAssemblyReference.cache

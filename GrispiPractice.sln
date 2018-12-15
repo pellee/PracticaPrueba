@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Carrera", "Carrera\Carrera.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pasantia", "Pasantia\Pasantia.csproj", "{021F3382-B35E-4DBB-8223-362868E73B69}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cosmeticos", "Cosmeticos\Cosmeticos.csproj", "{8C766AA7-EC94-4882-A903-7E0C00F7243B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{021F3382-B35E-4DBB-8223-362868E73B69}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{021F3382-B35E-4DBB-8223-362868E73B69}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{021F3382-B35E-4DBB-8223-362868E73B69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C766AA7-EC94-4882-A903-7E0C00F7243B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C766AA7-EC94-4882-A903-7E0C00F7243B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C766AA7-EC94-4882-A903-7E0C00F7243B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C766AA7-EC94-4882-A903-7E0C00F7243B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
